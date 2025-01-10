@@ -1,33 +1,18 @@
 - 👋 Hi, I’m @reecelikesramen (Reece Holmdahl)
-- 🏫 I study Computer Science and Math, taking all coursework at University of Minnesota Twin Cities, but pursuing degrees at the Duluth campus.
-- 💼 I work for Other World Computing as a Software Engineer with skills API development, data integration, reliability, and Salesforce.
-- 👀 I’m interested in distributed computing, raytracing, physics engines, AI, and better algorithms.
+- 🏫 B.Sc Computer Science and Minor in Mathematics from University of Minnesota
+- 💼 2 years of backend software engineering with experience in: RESTful APIs, software design, SQL databases, Redis, data integration, automation, and DevOps
+- 🙌 Software mentor for Eagan High School Robotics, FRC [@Team 2220](https://github.com/Team2220)
+- 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently learning:
-  - Rust
-  - Lisp
-  - GraphQL
-<!--- TODO split into languages, frameworks, industry/technical skills, coursework --->
+  - Go
+  - AWS
 - 🔬 I already know:
-  - C and C++
-  - TypeScript and JavaScript
-  - Java
-  - C# and .NET
-  - CI/CD
-  - Git CLI
-  - Agile methodology
-  - Postman
-  - Docker
-  - Elasticsearch
-  - SQL
-  - postgreSQL
-  - *nix
-  - Swift
-  - Dart and Flutter
-  - Formal computing theory
-  - Software development security concepts
-  - Foundational computer network concepts
-<!--- - 💞️ I’m looking to collaborate on a concept social media app using ML to connect existing friends with shared interests. --->
+  - Languages: C#, Rust, TypeScript, Python, Java, C/C++, Swift
+  - Technologies: .NET, Node.js, React, Svelte, PyTorch, Docker
+  - Databases: Redis, MongoDB, MSSQL, PostgreSQL
+  - Other: Git, Azure DevOps, NUnit, CI/CD
 - 📫 How to reach me: r@holmdahl.io
+- 🌐 [Portfolio](https://holmdahl.io)
 
 <!---
 reecelikesramen/reecelikesramen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
