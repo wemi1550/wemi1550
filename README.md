@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reecelikesramen (Reece Holmdahl)
 - 🏫 B.Sc Computer Science and Minor in Mathematics from University of Minnesota
-- 💼 2 years of backend software engineering with experience in: RESTful APIs, software design, SQL databases, Redis, data integration, automation, and DevOps
+- 💼 1.5 years of backend software engineering with experience in: RESTful APIs, software design, SQL databases, Redis, data integration, automation, and DevOps
 - 🙌 Software mentor for Eagan High School Robotics, FRC [@Team 2220](https://github.com/Team2220)
 - 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently learning:
