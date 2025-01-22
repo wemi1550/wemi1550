@@ -5,11 +5,12 @@
 - 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently learning:
   - Go
+  - Apache Kafka
   - AWS
 - 🔬 I already know:
   - Languages: C#, Rust, TypeScript, Python, Java, C/C++, Swift
   - Technologies: .NET, Node.js, React, Svelte, PyTorch, Docker
-  - Databases: Redis, MongoDB, MSSQL, PostgreSQL
+  - Databases: Redis, MongoDB, Microsoft SQL Server, PostgreSQL
   - Other: Git, Azure DevOps, NUnit, CI/CD
 - 📫 How to reach me: r@holmdahl.io
 - 🌐 [Portfolio](https://holmdahl.io)
