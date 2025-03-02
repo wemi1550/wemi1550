@@ -7,6 +7,7 @@
   - Go
   - Apache Kafka
   - GCP
+  - OpenCV
 - 🔬 I already know:
   - Languages: C#, Rust, TypeScript, Python, Java, C/C++, Swift
   - Technologies: .NET, Node.js, React, Svelte, PyTorch, Docker
