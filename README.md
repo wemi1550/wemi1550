@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:
   - Go
   - Apache Kafka
-  - AWS
+  - GCP
 - 🔬 I already know:
   - Languages: C#, Rust, TypeScript, Python, Java, C/C++, Swift
   - Technologies: .NET, Node.js, React, Svelte, PyTorch, Docker
